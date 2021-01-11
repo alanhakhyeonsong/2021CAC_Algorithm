@@ -51,5 +51,35 @@
     <ClCompile Include="BFS.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="selection_sort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="insertion_sort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="merge_sort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quick_sort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="heap_sort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bubble_sort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Prim_Algorithm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra_Algorithm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FloydWarshalll_Algorithm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Kruskal_Algorithm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
